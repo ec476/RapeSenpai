@@ -4,10 +4,10 @@
 <div align="center">
 
 # RapeSenpai
-**新概念Home游戏**
+**新概念van♂桑游戏**
 </div>
 
 ## 简介
-小游戏：雷普先辈
+小游戏：一闻同学
 
 纯恶搞无恶意。
