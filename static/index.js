@@ -350,8 +350,8 @@
         SubmitResults();
         if (score <= 49) return '逊呐';
         if (score <= 99) return '哼哼哼';
-        if (score <= 149) return '你是一个一个一个';
-        if (score <= 199) return '哼哼哼啊啊啊啊啊';
+        if (score <= 149) return '快';
+        if (score <= 199) return '这样冲会烂掉的';
         return '都撅烂了罢（恼';
     }
 
